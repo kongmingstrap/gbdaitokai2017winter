@@ -4,9 +4,10 @@
 
 ## このリポジトリはなに？
 
-[合同勉強会in大都会岡山 -2017 Winter-](http://gbdaitokai.connpass.com/event/58024/) の発表順の元ネタです。  
+[合同勉強会in大都会岡山 -2017 Winter-](http://gbdaitokai.connpass.com/event/58025/) の発表順の元ネタです。  
 
 ### ショート・ロングセッション登壇者の方へ
+
 登壇者の方はこのリポジトリの以下のファイルを編集し、プルリクをぶっ飛ばしてください。
 
 - [content.md](https://github.com/gbdaitokai/gbdaitokai2017winter/blob/master/content.md)
