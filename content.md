@@ -26,6 +26,7 @@ Alexa Skill Development first guide
 いよいよ日本にも上陸したスマートスピーカの本命、Amazon Echo。
 自分も早速入手したので、Amazon Echoの機能と、実際に自分でSkillを開発するにはどうしたらいいのか？を紹介します。
 
+***
 
 ## タイトル
 
