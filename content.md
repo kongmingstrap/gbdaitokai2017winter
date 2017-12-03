@@ -1,5 +1,20 @@
 ## タイトル
 
+Deploying a containerized Application on Google Kubernetes Engine
+
+## 登壇者
+
+林田　賢行(@hayashiki) / Framgia.inc
+
+## 概要
+
+GoogleKubernetesEngine(GKE)はKubernetesのマネージドサービス環境で、Dockerコンテナのオーケストレーションや管理を行うツールです。
+GKEを実際に業務で利用して得た知見をお話させていただきます。GKEを中心にお話する予定ですが、他のGCPサービスの連携パターンも取り扱います。
+
+***
+
+## タイトル
+
 Azure(Go関連)とGoのプロジェクトにコントリビュートした話
 
 ## 登壇者
@@ -71,3 +86,4 @@ Alexa Skill Development first guide
 
 いよいよ日本にも上陸したスマートスピーカの本命、Amazon Echo。
 自分も早速入手したので、Amazon Echoの機能と、実際に自分でSkillを開発するにはどうしたらいいのか？を紹介します。
+
