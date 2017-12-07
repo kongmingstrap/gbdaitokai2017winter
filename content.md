@@ -1,5 +1,19 @@
 ## タイトル
 
+Azure(Go関連)とGoのプロジェクトにコントリビュートした話
+
+## 登壇者
+
+Ryuji Iwata(@qt_luigi) / GCPUG岡山
+
+## 概要
+
+皆様のオープンソースプロジェクトへのコントリビュートを後押しすべく、私がAzure(Go関連)とGoのプロジェクトにコントリビュートした実例とその流れをGo紹介させて頂きます！q@w@p
+
+***
+
+## タイトル
+
 Deploying a containerized Application on Google Kubernetes Engine
 
 ## 登壇者
@@ -10,20 +24,6 @@ Deploying a containerized Application on Google Kubernetes Engine
 
 GoogleKubernetesEngine(GKE)はKubernetesのマネージドサービス環境で、Dockerコンテナのオーケストレーションや管理を行うツールです。
 GKEを実際に業務で利用して得た知見をお話させていただきます。GKEを中心にお話する予定ですが、他のGCPサービスの連携パターンも取り扱います。
-
-***
-
-## タイトル
-
-Azure(Go関連)とGoのプロジェクトにコントリビュートした話
-
-## 登壇者
-
-Ryuji Iwata(@qt_luigi) / GCPUG岡山
-
-## 概要
-
-皆様のオープンソースプロジェクトへのコントリビュートを後押しすべく、私がAzure(Go関連)とGoのプロジェクトにコントリビュートした実例とその流れをGo紹介させて頂きます！q@w@p
 
 ***
 
