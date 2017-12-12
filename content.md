@@ -101,3 +101,16 @@ Alexa Skill Development first guide
 いよいよ日本にも上陸したスマートスピーカの本命、Amazon Echo。
 自分も早速入手したので、Amazon Echoの機能と、実際に自分でSkillを開発するにはどうしたらいいのか？を紹介します。
 
+***
+
+## タイトル
+
+AWSの機械学習基盤を使ってみよう
+
+## 登壇者
+
+田中　孝明(@kongmingtrap) / クラスメソッド株式会社
+
+## 概要
+
+re:Invent 2017で新たに発表された Amazon SageMakerや、Amazon Rekognitionなどを、サンプルなどを交えて紹介したいと思います。
